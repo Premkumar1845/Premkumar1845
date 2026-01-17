@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am currently building strong technical expertise in Artificial Intelligence and Machine Learning as part of my B.Tech program. I am actively seeking opportunities to collaborate on AI/ML product prototypes that combine practical utility with real-world impact. My focus includes advanced implementation strategies for deploying AI/ML models in production environments, while continuously strengthening my foundation in core and advanced AI/ML concepts and systematic problem-solving through Data Structures and Algorithms. Ask me how developer communities and tech clubs, such as Google Developer Groups, can significantly accelerate learning, collaboration, and career growth in AI and ML.
 
 
