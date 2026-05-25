@@ -103,10 +103,14 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premkumar1845&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Premkumar1845&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premkumar1845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar1845&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar1845&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Premkumar1845&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -116,7 +120,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Premkumar1845&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Premkumar1845&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -126,23 +130,13 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Premkumar1845&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Premkumar1845&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premkumar1845/Premkumar1845/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premkumar1845/Premkumar1845/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Premkumar1845/Premkumar1845/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -150,6 +144,5 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**✨ "Build. Learn. Repeat." ✨**
 
 </div>
