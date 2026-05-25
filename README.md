@@ -27,25 +27,10 @@
 
 ## 🧠 About Me
 
-```python
-class PremKumar:
-    def __init__(self):
-        self.name        = "Prem Kumar Kuppili"
-        self.degree      = "B.Tech (AI & ML)"
-        self.role        = "AI/ML Engineer & Full-Stack Developer"
-        self.interests   = ["Machine Learning", "Deep Learning", "MLOps", "Blockchain"]
-        self.communities = ["Google Developer Groups", "Blockchain Club"]
-        self.goal        = "Build AI/ML products with real-world impact 🚀"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = PremKumar()
-me.say_hi()
 ```
 
-> 🎯 I'm actively building strong technical expertise in **AI and Machine Learning** as part of my B.Tech program.  
-> 🤝 Open to collaborating on **AI/ML product prototypes** that combine practical utility with real-world impact.  
+> 🎯 I'm actively building strong technical expertise in AI&ML, Full Stack & Blockchain. 
+> 🤝 Open to collaborating on **AI/ML & Blockchain product prototypes** that combine practical utility with real-world impact.  
 > ⚙️ Focused on **advanced deployment strategies** for AI/ML models in production environments.  
 > 🔗 Ask me how **Google Developer Groups** and **Blockchain Clubs** can supercharge your learning and career!
 
