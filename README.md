@@ -59,8 +59,12 @@
 
 <br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Premkumar1845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar1845&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Premkumar1845&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Premkumar1845&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=Premkumar1845&theme=tokyonight&hide_border=true"/>
 
 <br>
 <br>
