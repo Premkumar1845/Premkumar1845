@@ -28,17 +28,6 @@
 <br>
 <br>
 
-<h3><code>prem@github ~ $ ./links.sh</code></h3>
-
-<p><b>B.Tech AI & ML Student · Full-Stack Developer · AI Product Builder</b></p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-premkumarkuppili1845-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premkumarkuppili1845)
-[![X (Twitter)](https://img.shields.io/badge/X-prem__1832-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prem_1832)
-[![Email](https://img.shields.io/badge/Email-premkumarkuppili18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkumarkuppili18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Premkumar1845-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Premkumar1845)
-
-<br>
-
 <h3><code>prem@github ~ $ ./tech_stack.sh</code></h3>
 
 <p>
@@ -56,6 +45,17 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
 </p>
+
+<br>
+
+<h3><code>prem@github ~ $ ./links.sh</code></h3>
+
+<p><b>B.Tech AI & ML Student · Full-Stack Developer · AI Product Builder</b></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-premkumarkuppili1845-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premkumarkuppili1845)
+[![X (Twitter)](https://img.shields.io/badge/X-prem__1832-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prem_1832)
+[![Email](https://img.shields.io/badge/Email-premkumarkuppili18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premkumarkuppili18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Premkumar1845-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Premkumar1845)
 
 <br>
 
