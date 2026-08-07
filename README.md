@@ -50,7 +50,7 @@
 
 <h3><code>prem@github ~ $ ./links.sh</code></h3>
 
-<p><b>B.Tech AI & ML Student · Full-Stack Developer · AI Product Builder</b></p>
+<p><b>B.Tech AI/ML Student · Full-Stack Developer · AI Product Builder · Blockchain Developer</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-premkumarkuppili1845-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premkumarkuppili1845)
 [![X (Twitter)](https://img.shields.io/badge/X-prem__1832-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prem_1832)
