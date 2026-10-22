@@ -1,22 +1,22 @@
 {
   "username": "Premkumar1845",
-  "generated_at": "2026-10-21T11:49:57Z",
+  "generated_at": "2026-10-22T11:53:35Z",
   "range": {
     "start": "2025-10-19",
+    "end": "2026-10-22"
+  },
+  "total_contributions": 1193,
+  "active_days": 135,
+  "avg_per_active_day": 8.8,
+  "current_streak": {
+    "length": 81,
+    "start": "2026-08-02",
     "end": "2026-10-21"
   },
-  "total_contributions": 1192,
-  "active_days": 134,
-  "avg_per_active_day": 8.9,
-  "current_streak": {
-    "length": 80,
-    "start": "2026-08-02",
-    "end": "2026-10-20"
-  },
   "longest_streak": {
-    "length": 80,
+    "length": 81,
     "start": "2026-08-02",
-    "end": "2026-10-20"
+    "end": "2026-10-21"
   },
   "best_day": {
     "date": "2026-04-11",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 150
+      "total": 151
     }
   ],
   "days": [
@@ -1547,6 +1547,10 @@
     },
     {
       "date": "2026-10-21",
+      "count": 1
+    },
+    {
+      "date": "2026-10-22",
       "count": 0
     }
   ]
